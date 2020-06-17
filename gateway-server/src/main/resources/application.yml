@@ -1,0 +1,10 @@
+####  如果不使用nacos配置服务则可以放开一下注释，否则把一下配置放到nacos配置中心中;
+####  dataID为spring.application.name 如果涉及多环境可以配置spring.profiles.active
+####  此时dataID为{spring.application.name}-{spring.profiles.active}.{配置文件格式}
+#server:
+#  port: 8080
+#spring:
+#  cloud:
+#    nacos:
+#      discovery:
+#        server-addr: 10.128.90.11:8848
