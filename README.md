@@ -15,12 +15,12 @@
 
 配置中心：Nacos , Spring Cloud Config 分别搭建示例
 
-链路跟踪服务：Spring Cloud Sleuth , Zipkin
+链路跟踪服务：Spring Cloud Sleuth , Zipkin（使用说明）
 
-服务容错：Hystrix
+服务容错：Hystrix 
 
 负载均衡：Feign
 
-日志收集及管理：ELK (Elasticsearch、Logstash、Kibana)
+日志收集及管理：ELK (Elasticsearch、Logstash、Kibana)（搭建及配置说明）
 
  
