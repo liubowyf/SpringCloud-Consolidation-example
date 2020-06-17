@@ -36,7 +36,7 @@
 
 ### 2.1  Nacos部署
 1. 在Nacos的github上下载最新文档版本的安装包，也可访问如下地址直接下载：
-https://github.com/alibaba/nacos/releases/download/1.3.0/nacos-server-1.3.0.tar.gz
+    https://pan.baidu.com/s/1186nmlqPGows9gUZKAx8Zw 提取码：rest
 2. 把安装包放到Linux安装目录下（我安装在/app路径下），解压：
     
     `tar -xvf /app/nacos-server-1.3.0.tar.gz`
