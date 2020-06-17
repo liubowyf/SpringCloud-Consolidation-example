@@ -5,3 +5,5 @@ mvnw
 /.mvn/*
 *.cmd
 *.iml
+/.idea/*
+/.idea/
